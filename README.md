@@ -8,7 +8,7 @@ Below is a demo of the admin page utilizing CRUD methods.
 ![](create.gif)
 
 ### Update
-![](update.gif)
+![](work/gif/update.gif)
 
 ### DELETE
 ![](delete.gif)
