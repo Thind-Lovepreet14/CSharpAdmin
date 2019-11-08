@@ -5,16 +5,16 @@ This project is an admin page for the eCommerce website (Run4It). This page allo
 Below is a demo of the admin page utilizing CRUD methods.
 
 ### Create
-![](create.gif)
+![](work/gif/create.gif)
 
 ### Update
 ![](work/gif/update.gif)
 
 ### DELETE
-![](delete.gif)
+![](work/gif/delete.gif)
 
 ### Read
-![](read.gif)
+![](work/gif/read.gif)
 
 ### Built With
 
